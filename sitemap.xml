@@ -1,51 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://yonogamez.com/index.html</loc>
-    <lastmod>2024-05-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://yonogamez.com/betajay.html</loc>
-    <lastmod>2024-05-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://yonogamez.com/betone.html</loc>
-    <lastmod>2024-05-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://yonogamez.com/bomipl.html</loc>
-    <lastmod>2024-05-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://yonogamez.com/d1game.html</loc>
-    <lastmod>2024-05-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://yonogamez.com/dvip.html</loc>
-    <lastmod>2024-05-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://yonogamez.com/indbet.html</loc>
-    <lastmod>2024-05-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://yonogamez.com/toobet.html</loc>
-    <lastmod>2024-05-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+    
+    <!-- Main Page -->
+    <url>
+        <loc>https://u7777.in/</loc>
+        <lastmod>2025-12-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        
+        <!-- Image References for Main Page -->
+        <image:image>
+            <image:loc>https://u7777.in/u7777512.webp</image:loc>
+            <image:title>u7777 Game APK Download - Free Mobile Gaming</image:title>
+            <image:caption>Download u7777 Game APK for Android - 100+ free games with bonus ₹500</image:caption>
+            <image:geo_location>India</image:geo_location>
+            <image:license>https://u7777.in/terms</image:license>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://u7777.in/u777180.webp</image:loc>
+            <image:title>u7777 Game Icon</image:title>
+            <image:caption>u7777 Game mobile app icon for Android APK download</image:caption>
+            <image:geo_location>India</image:geo_location>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://u7777.in/u777748.webp</image:loc>
+            <image:title>u7777 Small Icon</image:title>
+            <image:caption>u7777 Game small icon for Android home screen</image:caption>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://u7777.in/favicon.ico</image:loc>
+            <image:title>u7777 Game favicon  48x48</image:title>
+            <image:caption>u7777 Game APK small favicon for website</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://u7777.in/u77771.webp</image:loc>
+            <image:title>u7777 Slot Game APK Screenshot</image:title>
+            <image:caption>u7777 Game APK - Slot machine game screenshot with bonus features</image:caption>
+            <image:license>https://u7777.in/terms</image:license>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://u7777.in/u77772.webp</image:loc>
+            <image:title>u7777  Game APK Bonus</image:title>
+            <image:caption>u7777 Game APK - download and get bonus 500 rupees</image:caption>
+            <image:license>https://u7777.in/terms</image:license>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://u7777.in/u77773.webp</image:loc>
+            <image:title>u7777 Game APK high wins</image:title>
+            <image:caption>u7777 Game APK - high win and play games </image:caption>
+            <image:license>https://u7777.in/terms</image:license>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://u7777.in/u77774.webp</image:loc>
+            <image:title>u7777 Game APK all games</image:title>
+            <image:caption>u7777 game lots of free game play and win huge</image:caption>
+            <image:license>https://u7777.in/terms</image:license>
+        </image:image>
+        
+    </url>
+    
 </urlset>
